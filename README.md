@@ -2,7 +2,7 @@
 
 Nerest docs are built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
-[View live version](https://nerestjs.github.io)
+[View live version](https://nerestjs.github.io/docs/)
 
 ## Installation
 
